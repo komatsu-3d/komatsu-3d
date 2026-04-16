@@ -41,7 +41,7 @@
 | **Hitting** | .310 / 54 HR / 130 RBI (2024 Record) |
 | **Pitching** | 10 Wins / 3.14 ERA / 160 SO (Expected) |
 
-#### 🏹 Kyle Tucker (HOU #30)
+#### 🏹 Kyle Tucker (LAD #23)
 | AVG | HR | RBI | SB |
 | :--- | :--- | :--- | :--- |
 | .289 | 23 | 49 | 11 |
