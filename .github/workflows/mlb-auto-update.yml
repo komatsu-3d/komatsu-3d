@@ -1,17 +1,15 @@
-name: MLB Daily Stats Update
+name: MLB Stats and Bunny Update
 
 on:
   schedule:
-    # 毎日 日本時間 朝9:00（UTC 0:00）に実行
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 env:
-  # 警告に出ていた「新しいエンジンを使う」ための設定を追加
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  update-stats:
+  update-all:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,15 +18,26 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
       - name: Install dependencies
         run: pip install requests
-      - name: Run update script
+      - name: Run MLB update script
         run: python update_mlb.py
+
+      # --- ここから「垂れ耳うさぎ」の召喚 ---
+      - name: Summon Fluffy Lop Bunny
+        run: |
+          mkdir -p dist
+          # 私が生成した特製アニメーション（GIF）をdistフォルダに保存します
+          curl -L -o dist/github-bunny.gif https://raw.githubusercontent.com/komatsu-3d/komatsu-3d/main/assets/bunny.gif
+
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "⚾️ MLB Stats Auto-Update" || exit 0
+          # うさぎの画像も保存対象にする
+          mkdir -p dist
+          git add dist/
+          git commit -m "⚾️ MLB Stats & 🐰 Bunny Update" || exit 0
           git push
