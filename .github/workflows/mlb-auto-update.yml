@@ -4,7 +4,11 @@ on:
   schedule:
     # 毎日 日本時間 朝9:00（UTC 0:00）に実行
     - cron: '0 0 * * *'
-  workflow_dispatch: # 手動で動かすボタンも作ります
+  workflow_dispatch:
+
+env:
+  # 警告に出ていた「新しいエンジンを使う」ための設定を追加
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-stats:
