@@ -1,15 +1,5 @@
 ---
 
-### 🐰 My Special Bunny
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="100" />
-</p>
-
-> [!TIP]
-> 垂れ耳うさぎを飼っています！
-
----
-
 # Hi there! 👋 I'm komatsu-3d (komatsu-ntl)
 
 非エンジニアですが、AIの力を借りて「あ、これ便利かも」という道具を作るのをのんびり楽しんでいます。
@@ -59,3 +49,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komatsu-3d&theme=tokyonight)
 
 ![komatsu-3d's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komatsu-3d&theme=tokyonight)
+
+---
+
+### 🐰 My Special Bunny
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="100" />
+</p>
+
+> [!TIP]
+> 垂れ耳うさぎを飼っています！
+
+---
