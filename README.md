@@ -43,9 +43,8 @@
 
 ---
 
-### 📊 GitHub Stats (My Scoreboard)
-
-![komatsu-3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=komatsu-3d&show_icons=true&theme=tokyonight&include_all_commits=true)
+### 🗓️ Activity Graph
+![komatsu-3d's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komatsu-3d&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu-3d&layout=compact&theme=tokyonight)
 
