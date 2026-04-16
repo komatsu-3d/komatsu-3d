@@ -43,9 +43,11 @@
 
 ---
 
-### 🗓️ Activity Graph
+### 🏆 GitHub Trophies
+![komatsu-3d's Trophies](https://github-profile-trophy.vercel.app/?username=komatsu-3d&theme=tokyonight&column=4)
+
+### 📈 Activity Records
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komatsu-3d&theme=tokyonight)
+
 ![komatsu-3d's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komatsu-3d&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu-3d&layout=compact&theme=tokyonight)
-
 
