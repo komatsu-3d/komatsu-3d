@@ -25,7 +25,13 @@
 ---
 
 ### ⚾️ MLB My Focus Players (Auto-Updated)
-（自動で成績を書き込みます...！！！）
+#### Shohei Ohtani
+- **Hitting**: .254 / 5 HR / 10 RBI
+- **Pitching**: 2-0 / 0.50 ERA / 18 SO
+#### Kyle Tucker
+- **Hitting**: .239 / 2 HR / 11 RBI
+#### Andy Pages
+- **Hitting**: .409 / 5 HR / 20 RBI
 
 ---
 
