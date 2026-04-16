@@ -1,7 +1,12 @@
 ---
 
 ### 🐰 My Special Bunny (Looping Jump!)
-![hopping bunny](https://raw.githubusercontent.com/komatsu-3d/komatsu-3d/main/dist/github-bunny.gif)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="100" />
+</p>
+
+> [!TIP]
+> ぴょんぴょん跳ねる垂れ耳うさぎを飼っています！
 
 ---
 
