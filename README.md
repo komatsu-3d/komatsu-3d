@@ -24,6 +24,11 @@
 
 ---
 
+### ⚾️ MLB My Focus Players (Auto-Updated)
+（自動で成績を書き込みます...！！！）
+
+---
+
 ### 📊 GitHub Stats (My Scoreboard)
 
 ![komatsu-3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=komatsu-3d&show_icons=true&theme=tokyonight)
