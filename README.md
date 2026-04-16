@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm komatsu-3d (komatsu-ntl)
 
-<!--
-**komatsu-3d/komatsu-3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+非エンジニアですが、AIの力を借りて「あ、これ便利かも」という道具を作るのをのんびり楽しんでいます。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚾️ 好きなこと
+- **MLBのデータを眺めること**
+  試合はあまり見ずに、数字の進捗や相性を頭のなかで分析しています。
+
+### 🚀 最近のあそび
+- **Gemini と GAS**
+  ノーコードで「ちょっと便利なもの」をコツコツ作成中です。
+
+### 🔥 気になっていること
+- **ClaudeCode**
+  これで仕事がもっと楽になったらいいなぁ、と妄想しています。
+
+---
+
+> [!TIP]
+> コードのことはよくわかりませんが、新しいツールを触るのは大好きです。
+> ゆるく、楽しく、効率化。を目指して活動しています。よろしくお願いします！
