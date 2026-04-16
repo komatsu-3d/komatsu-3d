@@ -21,3 +21,11 @@
 > [!TIP]
 > コードのことはよくわかりませんが、新しいツールを触るのは大好きです。
 > ゆるく、楽しく、効率化。を目指して活動しています。よろしくお願いします！
+
+---
+
+### 📊 GitHub Stats (My Scoreboard)
+
+![komatsu-3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=komatsu-3d&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu-3d&layout=compact&theme=tokyonight)
