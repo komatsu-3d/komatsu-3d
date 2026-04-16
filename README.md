@@ -32,23 +32,23 @@
 
 ---
 
-### ⚾️ MLB My Focus Players (2026 Season)
-> 毎日コツコツ、推し選手の結果をチェックしています。
+### ⚾️ MLB My Focus Players (Updated: 2026/04/16)
+> AIサポートにより、推し選手の最新スタッツを自動追跡中。
 
 #### 🦄 Shohei Ohtani (LAD #17)
 | Role | Stats |
 | :--- | :--- |
-| **Hitting** | .310 / 54 HR / 130 RBI (2024 Record) |
-| **Pitching** | 10 Wins / 3.14 ERA / 160 SO (Expected) |
+| **Hitting** | .254 AVG / 5 HR / 10 RBI / 0 SB |
+| **Pitching** | 2-0 W-L / 0.50 ERA / 18 SO / 0.72 WHIP |
 
 #### 🏹 Kyle Tucker (LAD #23)
-| AVG | HR | RBI | SB |
-| :--- | :--- | :--- | :--- |
-| .289 | 23 | 49 | 11 |
+| AVG | HR | RBI | SB | OPS |
+| :--- | :--- | :--- | :--- | :--- |
+| .239 | 2 | 11 | 3 | .693 |
 
-#### 🚀 Andy Pages (LAD #44)
-| AVG | HR | RBI | Status |
-| :--- | :--- | :--- | :--- |
-| .409 | 5 | 20 | Hot Start! 🔥 |
+#### 🚀 Andy Pages (LAD #84)
+| AVG | HR | RBI | SB | OPS |
+| :--- | :--- | :--- | :--- | :--- |
+| .409 | 5 | 20 | 3 | 1.148 |
 
 ---
