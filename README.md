@@ -1,12 +1,12 @@
 ---
 
-### 🐰 My Special Bunny (Looping Jump!)
+### 🐰 My Special Bunny
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="100" />
 </p>
 
 > [!TIP]
-> ぴょんぴょん跳ねる垂れ耳うさぎを飼っています！
+> 垂れ耳うさぎを飼っています！
 
 ---
 
