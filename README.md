@@ -30,18 +30,18 @@
 #### 🦄 Shohei Ohtani (LAD #17)
 | Role | Stats |
 | :--- | :--- |
-| **Hitting** | .264 AVG / 5 HR / 10 RBI / 0 SB |
+| **Hitting** | .273 AVG / 5 HR / 11 RBI / 0 SB |
 | **Pitching** | 2-0 W-L / 0.50 ERA / 18 SO / 0.72 WHIP |
 
 #### 🏹 Kyle Tucker (LAD #23)
 | AVG | HR | RBI | SB | OPS |
 | :--- | :--- | :--- | :--- | :--- |
-| .260 | 3 | 13 | 3 | .759 |
+| .256 | 3 | 13 | 3 | .737 |
 
 #### 🚀 Andy Pages (LAD #44)
 | AVG | HR | RBI | SB | OPS |
 | :--- | :--- | :--- | :--- | :--- |
-| .389 | 5 | 21 | 3 | 1.083 |
+| .382 | 5 | 21 | 3 | 1.061 |
 
 ---
 
