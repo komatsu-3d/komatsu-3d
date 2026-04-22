@@ -45,10 +45,11 @@
 
 ---
 
-### 📈 Activity Records
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komatsu-3d&theme=tokyonight)
+### 📊 My Stats
+![小松さんのGitHub Stats](https://github-readme-stats.vercel.app/api?username=komatsu-3d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![komatsu-3d's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komatsu-3d&theme=tokyonight)
+###  🔥 Current Streak
+![小松さんのGitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komatsu-3d&theme=tokyonight&hide_border=true)
 
 ---
 
