@@ -1,35 +1,44 @@
-name: MLB Stats Update
+import requests
+import re
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+# 大谷翔平選手のみ
+OHTANI_ID = 660271
 
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # ここで明示的に書き込みを許可
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # 履歴をすべて取得してエラーを防ぐ
+def get_stats():
+    url = f"https://statsapi.mlb.com/api/v1/people/{OHTANI_ID}?hydrate=stats(group=[hitting,pitching],type=[season])"
+    data = requests.get(url).json()
+    person = data['people'][0]
+    stats_list = person.get('stats', [])
+    
+    # デフォルト値
+    avg, hr, rbi, ops, era, win, so = ".---", "0", "0", ".---", "-.--", "0", "0"
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+    for s in stats_list:
+        if not s.get('splits'): continue
+        stat = s['splits'][0]['stat']
+        if s['group']['displayName'] == 'hitting':
+            avg, hr, rbi, ops = stat.get('avg', '.---'), stat.get('homeRuns', 0), stat.get('rbi', 0), stat.get('ops', '.---')
+        elif s['group']['displayName'] == 'pitching':
+            era, win, so = stat.get('era', '-.--'), stat.get('wins', 0), stat.get('strikeOuts', 0)
 
-      - name: Install dependencies
-        run: pip install requests
+    table = f"| Player | AVG | HR | RBI | **OPS** |\n| :--- | :--- | :--- | :--- | :--- |\n| **Shohei Ohtani** | {avg} | {hr} | {rbi} | **{ops}** |"
+    pitching = f"\n\n#### 投球成績\n* **Shohei Ohtani**: {win}勝, ERA {era}, {so} 奪三振"
+    return table + pitching
 
-      - name: Run MLB update script
-        run: python update_mlb.py
+def update_readme(new_data):
+    with open("README.md", "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    # タグの間をすべて新しい大谷データで上書き
+    updated = re.sub(
+        r".*?",
+        f"\n{new_data}\n",
+        content, flags=re.DOTALL
+    )
+    
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(updated)
 
-      - name: Commit and push if changed
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "⚾️ Update MLB stats (Ohtani, Yamamoto & Dodgers)" || echo "No changes to commit"
-          git push origin main
+if __name__ == "__main__":
+    stats = get_stats()
+    update_readme(stats)
