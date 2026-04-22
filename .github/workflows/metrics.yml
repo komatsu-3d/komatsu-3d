@@ -1,26 +1,23 @@
 name: Metrics
 on:
-  # 毎日日本時間の深夜に自動実行
   schedule: [{cron: "0 15 * * *"}]
-  # 手動でも実行できるようにする（テスト用）
   workflow_dispatch:
-  # メインのREADMEを更新した時にも実行
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 先ほど金庫に入れた名前
           token: ${{ secrets.METRICS_TOKEN }}
           user: komatsu-3d
           template: classic
-          base: header, activity, community, repositories, metadata
-          # プライベートリポジトリの活動も集計対象に含める
-          config_display: large
+          # 2Dでスッキリ表示（ヘッダーと最近の活動のみ）
+          base: header, activity, community, metadata
           config_timezone: Asia/Tokyo
-          # 小松さんが欲しかった「ゴリゴリの推移」グラフを表示
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # 3D(isocalendar)を廃止し、2Dの言語統計を追加（これ、カッコいいです）
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
