@@ -1,44 +1,24 @@
-import requests
-import re
-
-# 大谷翔平選手のみ
-OHTANI_ID = 660271
-
-def get_stats():
-    url = f"https://statsapi.mlb.com/api/v1/people/{OHTANI_ID}?hydrate=stats(group=[hitting,pitching],type=[season])"
-    data = requests.get(url).json()
-    person = data['people'][0]
-    stats_list = person.get('stats', [])
-    
-    # デフォルト値
-    avg, hr, rbi, ops, era, win, so = ".---", "0", "0", ".---", "-.--", "0", "0"
-
-    for s in stats_list:
-        if not s.get('splits'): continue
-        stat = s['splits'][0]['stat']
-        if s['group']['displayName'] == 'hitting':
-            avg, hr, rbi, ops = stat.get('avg', '.---'), stat.get('homeRuns', 0), stat.get('rbi', 0), stat.get('ops', '.---')
-        elif s['group']['displayName'] == 'pitching':
-            era, win, so = stat.get('era', '-.--'), stat.get('wins', 0), stat.get('strikeOuts', 0)
-
-    table = f"| Player | AVG | HR | RBI | **OPS** |\n| :--- | :--- | :--- | :--- | :--- |\n| **Shohei Ohtani** | {avg} | {hr} | {rbi} | **{ops}** |"
-    pitching = f"\n\n#### 投球成績\n* **Shohei Ohtani**: {win}勝, ERA {era}, {so} 奪三振"
-    return table + pitching
-
-def update_readme(new_data):
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
-    
-    # タグの間をすべて新しい大谷データで上書き
-    updated = re.sub(
-        r".*?",
-        f"\n{new_data}\n",
-        content, flags=re.DOTALL
-    )
-    
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated)
-
-if __name__ == "__main__":
-    stats = get_stats()
-    update_readme(stats)
+name: MLB Update
+on:
+  workflow_dispatch: # 手動で動かすためのボタン
+  schedule:
+    - cron: '0 0 * * *' # 毎日自動更新
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # ←ここが「読み書き許可」の生命線です！
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python update_mlb.py
+      - name: Save to README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update Ohtani" || exit 0
+          git push origin main
