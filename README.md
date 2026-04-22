@@ -22,20 +22,13 @@
 
 ---
 
+### 📊 Activity Graph (3D)
+![GitHub Metrics](github-metrics.svg)
+
+---
 
 ### ⚾️ MLB My Focus Players (Auto-Updated)
 
 ここに自動で成績が反映されます。一度Actionsを動かすと、ここが書き換わります！
----
-
-### 🐰 Today's Bunny
-<p align="center">
-  <img src="dist/github-bunny.gif" width="250" alt="Summoned Bunny">
-</p>
-
----
-
-### 📊 Activity Graph (3D)
-![GitHub Metrics](github-metrics.svg)
 
 ---
