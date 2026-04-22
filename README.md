@@ -23,22 +23,6 @@
 ---
 
 
-## 📊 My Real Activity
-![GitHub Metrics](github-metrics.svg)
-
-
----
-
-### 🐰 My Special Bunny
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="100" />
-</p>
-
-> [!TIP]
-> 垂れ耳うさぎを飼っています！
-
----
-
 ### ⚾️ MLB My Focus Players (Auto-Updated)
 
 ここに自動で成績が反映されます。一度Actionsを動かすと、ここが書き換わります！
