@@ -45,11 +45,10 @@
 
 ---
 
-### 📊 My Stats
-![小松さんのGitHub Stats](https://github-readme-stats.vercel.app/api?username=komatsu-3d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-###  🔥 Current Streak
-![小松さんのGitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komatsu-3d&theme=tokyonight&hide_border=true)
+## 📊 My Real Activity
+![GitHub Metrics](github-metrics.svg)
+
 
 ---
 
