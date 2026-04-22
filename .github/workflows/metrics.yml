@@ -13,11 +13,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: komatsu-3d
-          template: classic
-          # 2Dでスッキリ表示（ヘッダーと最近の活動のみ）
-          base: header, activity, community, metadata
+          template: classic # 2Dの標準テンプレート
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
-          # 3D(isocalendar)を廃止し、2Dの言語統計を追加（これ、カッコいいです）
+          
+          # 2Dのカッコいい統計を追加
           plugin_languages: yes
-          plugin_languages_sections: most-used
+          plugin_languages_ignored: html, css, tex
           plugin_languages_details: percentage
+          
+          # 最近の活動履歴を2Dで表示
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
