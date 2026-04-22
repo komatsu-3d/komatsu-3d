@@ -1,32 +1,3780 @@
----
 
-# Hi there! 👋 I'm komatsu-3d (komatsu-ntl)
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
-非エンジニアですが、AIの力を借りて「あ、これ便利かも」という道具を作るのをのんびり楽しんでいます。
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
----
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
-### ⚾️ 好きなこと
-- **MLBのデータを眺めること**
-  試合はあまり見ずに、数字の進捗や相性を頭のなかで分析しています。
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
-### 🚀 最近のあそび
-- **ClaudeCode と GAS**
-  ノーコードで「ちょっと便利なもの」をコツコツ作成中です。好きな言葉は「形式知」です...🔥
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
----
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
-> [!TIP]
-> コードのことは勉強中ですが、新しいツールを触るのは大好きです。
-> ゆるく、楽しく、効率化。を目指して活動しています。よろしくお願いします！
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
----
-### 📊 Activity Records
-![GitHub Metrics](github-metrics.svg)
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
----
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
-### ⚾️ MLB My Focus Player
-ここに大谷選手の成績だけが表示されます。
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
 
----
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
+
+| Player | AVG | HR | RBI | **OPS** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Shohei Ohtani** | .271 | 5 | 11 | **.890** |
