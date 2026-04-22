@@ -28,6 +28,20 @@
 ---
 
 ### ⚾️ MLB My Focus Players (Auto-Updated)
-ここに成績が反映されます（上書きされるので、この文章は消えます！）
+#### 🦄 Shohei Ohtani (LAD #17)
+| Role | Stats |
+| :--- | :--- |
+| **Hitting** | .271 AVG / 5 HR / 11 RBI / 1 SB |
+| **Pitching** | 2-0 W-L / 0.50 ERA / 18 SO / 0.72 WHIP |
+
+#### 🏹 Kyle Tucker (LAD #23)
+| AVG | HR | RBI | SB | OPS |
+| :--- | :--- | :--- | :--- | :--- |
+| .244 | 3 | 13 | 3 | .705 |
+
+#### 🚀 Andy Pages (LAD #44)
+| AVG | HR | RBI | SB | OPS |
+| :--- | :--- | :--- | :--- | :--- |
+| .366 | 5 | 21 | 4 | 1.009 |
 
 ---
