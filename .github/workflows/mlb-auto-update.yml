@@ -1,75 +1,36 @@
-import requests
-import re
-import os
+name: MLB Stats Update
 
-# 選手IDリスト (2026年ドジャース布陣)
-PLAYERS = [
-    {"id": 660271, "name": "Shohei Ohtani", "type": "both"},
-    {"id": 808967, "name": "Yoshinobu Yamamoto", "type": "pitcher"},
-    {"id": 681624, "name": "Andy Pages", "type": "hitter"},
-    {"id": 519058, "name": "Max Muncy", "type": "hitter"},
-    {"id": 694324, "name": "Dalton Rushing", "type": "hitter"},
-    {"id": 503524, "name": "Miguel Rojas", "type": "hitter"},
-]
+on:
+  schedule:
+    - cron: '0 0 * * *' # 毎日午前9時
+  workflow_dispatch:   # 手動実行用
 
-def get_stats():
-    hitter_rows = []
-    pitcher_info = []
-    
-    for p in PLAYERS:
-        url = f"https://statsapi.mlb.com/api/v1/people/{p['id']}?hydrate=stats(group=[hitting,pitching],type=[season])"
-        data = requests.get(url).json()
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    # 【重要】これがないと、書き換え後の保存ができなくて赤いバツになります！
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Install dependencies
+        run: pip install requests
         
-        person = data['people'][0]
-        stats_list = person.get('stats', [])
+      - name: Run MLB update script
+        run: python update_mlb.py
         
-        avg, hr, rbi, ops, sb = ".---", "0", "0", ".---", "0"
-        era, win, loss, so = "-.--", "0", "0", "0"
-
-        for s in stats_list:
-            if s['group']['displayName'] == 'hitting':
-                stat = s['splits'][0]['stat']
-                avg = stat.get('avg', '.---')
-                hr = stat.get('homeRuns', 0)
-                rbi = stat.get('rbi', 0)
-                ops = stat.get('ops', '.---')
-                sb = stat.get('stolenBases', 0)
-            elif s['group']['displayName'] == 'pitching':
-                stat = s['splits'][0]['stat']
-                era = stat.get('era', '-.--')
-                win = stat.get('wins', 0)
-                loss = stat.get('losses', 0)
-                so = stat.get('strikeOuts', 0)
-
-        if p['type'] in ['hitter', 'both']:
-            hitter_rows.append(f"| **{p['name']}** | {avg} | {hr} | {rbi} | **{ops}** | {sb} |")
-        
-        if p['type'] in ['pitcher', 'both']:
-            pitcher_info.append(f"* **{p['name']}**: {win}-{loss}, ERA {era}, {so} SO")
-
-    return hitter_rows, pitcher_info
-
-def update_readme(hitter_rows, pitcher_info):
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
-
-    table_header = "| Player | AVG | HR | RBI | **OPS** | SB |\n| :--- | :--- | :--- | :--- | :--- | :--- |"
-    table_body = "\n".join(hitter_rows)
-    pitching_section = "\n#### 投球成績 (Pitching)\n" + "\n".join(pitcher_info)
-    
-    new_stats = f"{table_header}\n{table_body}\n{pitching_section}"
-    
-    # と の間を置換
-    updated_content = re.sub(
-        r".*?",
-        f"\n{new_stats}\n",
-        content,
-        flags=re.DOTALL
-    )
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_content)
-
-if __name__ == "__main__":
-    h_rows, p_info = get_stats()
-    update_readme(h_rows, p_info)
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # 変更がある場合のみコミット
+          git commit -m "⚾️ Update MLB stats (Ohtani, Yamamoto & Dodgers)" || exit 0
+          git push
